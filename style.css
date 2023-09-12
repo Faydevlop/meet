@@ -1,0 +1,124 @@
+.head{
+    height: 100px;
+    width: 100%;
+    display: flex;
+
+}
+body{
+    
+    font-family: 'Open Sans', sans-serif;
+    margin: 0;
+      
+}
+#himg{
+    height: 70px;
+    color: gray;
+    margin-top: -11px;
+    margin-left: 25px;
+}
+#ic{
+    height: 32px;
+    padding: 3px;
+    cursor: pointer;height: 29px;
+    padding: 3px;
+    margin-left: -1px;
+    padding-left: 5pxc
+    cursor : pointer;
+}
+#icons{
+
+    height: 30px;
+    margin-left: 880px;
+    margin-top: -17px;
+    padding: 21px;
+}
+h1{
+    font-size: 45px;
+    font-weight: 100;
+    margin-left: 55px;
+    margin-top: 65px;
+}
+#para{
+    color: gray;
+    margin-left: 60px;
+}
+#menu{
+    width: 100%;
+    height: 500px;
+    background-color: #1A73E8;
+    display: flex;
+}
+#p1{
+    width: 50%;
+    height: 500px;
+    background-color: rgb(255, 255, 255);
+}
+#p2{
+    width: 50%;
+    height: 500px;
+    background-color: white;
+    
+}
+#btn1{
+    height: 42px;
+    width: 145px;
+    margin-left: 60px;
+    margin-top: 50px;
+    background-color: #1A73E8;
+    border-radius: 3px;
+    font-weight: 500;
+    word-spacing: 1px;
+    color: white;
+    border-style: solid;
+    border-color:#006eff ;
+    cursor: pointer;
+    
+}
+#btn1:hover{
+    background-color: gray;
+    border-style: solid;
+    border-color: gray;
+}
+#btn2{
+    height: 42px;
+    width: 230px;
+    margin-left: 30px;
+    padding-left: 45px;
+    border-style: solid;
+    border-color: grey;
+    cursor: pointer;
+    border-radius: 5px;
+}
+#kb{
+    margin-top: -7px;
+    padding-left: 109px;
+}
+#btn3{
+    margin-left: 12px;
+    height: 45px;
+    border-style: solid;
+    border-color: transparent;
+    width: 55px;
+}
+#btn3:hover{
+    background-color: #1A73E8;
+    border-radius: 5px;
+}
+.hi{
+    background-color: #1A73E8;
+}
+#img2{
+    margin-left: 140px;
+    margin-top: 10px;
+}
+#h2{
+    margin-left: 180px;
+    font-weight: 100;
+}
+#para2{
+margin-left: 120PX;
+}
+#para3{
+margin-left: 230px;
+margin-top: -10px;
+}
